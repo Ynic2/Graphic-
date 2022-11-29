@@ -1,0 +1,9 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ endwin в функции main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ initscr в функции main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ printw в функции main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ refresh в функции main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ wgetch в функции main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_stdscr в функции main.
+C:\Users\ynicp\source\repos\PDCURSED\PDCURSED\lib\pdcurses.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\ynicp\source\repos\PDCURSED\x64\Debug\PDCURSED.exe : fatal error LNK1120: неразрешенных внешних элементов: 6
