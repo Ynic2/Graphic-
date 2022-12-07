@@ -1,0 +1,13 @@
+﻿  Functions.cpp
+ZXCursed.obj : error LNK2019: ссылка на неразрешенный внешний символ box в функции main.
+ZXCursed.obj : error LNK2019: ссылка на неразрешенный внешний символ initscr в функции main.
+ZXCursed.obj : error LNK2019: ссылка на неразрешенный внешний символ keypad в функции main.
+ZXCursed.obj : error LNK2019: ссылка на неразрешенный внешний символ mvwprintw в функции main.
+ZXCursed.obj : error LNK2019: ссылка на неразрешенный внешний символ newwin в функции main.
+ZXCursed.obj : error LNK2019: ссылка на неразрешенный внешний символ wattroff в функции main.
+ZXCursed.obj : error LNK2019: ссылка на неразрешенный внешний символ wattron в функции main.
+ZXCursed.obj : error LNK2019: ссылка на неразрешенный внешний символ wgetch в функции main.
+ZXCursed.obj : error LNK2019: ссылка на неразрешенный внешний символ getmaxx в функции main.
+ZXCursed.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_stdscr в функции main.
+lib\pdcurses.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\ynicp\source\repos\ZXCursed\x64\Debug\ZXCursed.exe : fatal error LNK1120: неразрешенных внешних элементов: 10
